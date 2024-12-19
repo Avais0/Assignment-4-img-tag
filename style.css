@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #414141;
+    color: white;
+   
+}
+h1{
+    text-align: center;
+    text-shadow: wheat;
+     border: #414141;
+    
+    
+}
+p{
+    text-align: center;
+}
+img{
+ background-image: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+
+}
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
